@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = "ResonateAnalytics"
   s.version          = "3.8.0-beta.2"
-  s.summary          = "The hassle-free way to add analytics to your iOS app."
+  s.summary          = "Resonate Analytics"
 
   s.description      = <<-DESC
                        Resonate Analytics for iOS
