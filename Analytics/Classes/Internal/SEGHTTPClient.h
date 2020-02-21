@@ -6,9 +6,9 @@
 //#define SEGMENT_API_BASE [NSURL URLWithString:@"https://api-segment-io-5fsaj1xnikhp.runscope.net/v1"]
 //#define SEGMENT_CDN_BASE [NSURL URLWithString:@"https://cdn-segment-com-5fsaj1xnikhp.runscope.net/v1"]
 //#define MOBILE_SERVICE_BASE [NSURL URLWithString:@"https://mobile--service-segment-com-5fsaj1xnikhp.runscope.net/v1"]
-#define SEGMENT_API_BASE [NSURL URLWithString:@"https://api.segment.io/v1"]
-#define SEGMENT_CDN_BASE [NSURL URLWithString:@"https://cdn-settings.segment.com/v1"]
-#define MOBILE_SERVICE_BASE [NSURL URLWithString:@"https://mobile-service.segment.com/v1"]
+#define SEGMENT_API_BASE [NSURL URLWithString:@"https://ds.reson8.com/v1"]
+#define SEGMENT_CDN_BASE [NSURL URLWithString:@"https://cdn.resonate.com/v1"]
+#define MOBILE_SERVICE_BASE [NSURL URLWithString:@"https://mobile-service.resonate.com/v1"] // Does not exist, must ignore on default
 
 NS_ASSUME_NONNULL_BEGIN
 

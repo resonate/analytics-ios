@@ -54,6 +54,7 @@
         self.shouldUseLocationServices = NO;
         self.enableAdvertisingTracking = YES;
         self.shouldUseBluetooth = NO;
+        self.trackAttributionData = NO;
         self.flushAt = 20;
         self.flushInterval = 30;
         self.maxQueueSize = 1000;
